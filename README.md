@@ -1,6 +1,7 @@
 ################
 ##Introduction##
 ################
+
 ViceVersa Protocol is a life changing DeFi 3.0 auto-staking and auto-rebasing Protocol. 
 It’s a rebased auto-staking DeFi with multiple levels and play and earn features. 
 We guarantee you HIGH APY, incoming DEX, DEFI, NFT platform and much more! 
