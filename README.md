@@ -11,6 +11,7 @@ ViceVersa Protocol will stake and compound you Tokens automatically in your wall
 ##########################
 ##Auto-Staking with NFTs##
 ##########################
+
 With an fixed APY of 196,968.08% all you have to do is to hold ViceVersa Tokens in your Wallet. 
 You will be rewarded with every block (round about 3 seconds).
 If you are not satisfied with this ULTRA-HIGH APY you can go further and become an APY BEAST!
@@ -18,8 +19,11 @@ If you are not satisfied with this ULTRA-HIGH APY you can go further and become 
 We offer you 4 kinds of NFT-Staking levels to get even more APY in our Staking Protocol:
 
 ####Dayjobber – 402,352.13%
+
 ####Entrepreneur – 820,749.96%
+
 ####Baller – 1,171,619.75%
+
 ####Satoshi – 2,384,991.58%
 
 All you have to do is to get yourself one of the 4 Tier NFTs. 
